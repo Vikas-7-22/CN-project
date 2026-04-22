@@ -1,5 +1,5 @@
 # Kali Linux Vulnerability Assessment Project
-![Kali Linux Project](kali_project_preview.png)
+
 This project demonstrates vulnerability assessment and penetration testing using Kali Linux.
 
 ## Tools Used
